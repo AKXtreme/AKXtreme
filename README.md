@@ -19,6 +19,6 @@ I care deeply about writing clean code, learning in public, and exploring how te
 ---
 
 ### 🌍 Find me around the web
-- Portfolio:   
+- Portfolio: akalewold.com  
 
 Thanks for stopping by!
