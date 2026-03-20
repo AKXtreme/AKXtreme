@@ -1,4 +1,4 @@
-AK
+Akalewold 
 
 Full-stack developer building mobile applications and real-time systems.
 
