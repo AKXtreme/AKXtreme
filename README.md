@@ -19,11 +19,8 @@ Systems
 - Akmessage real time messaging app
       https://github.com/AKXtreme/akmessage
  
-- Sirat enterprise management system 
+- Serat enterprise management system 
       https://github.com/AKXtreme/serat-system
 
----
 
-Stack
 
-Spring Boot · Android · MySQL · JavaScript
