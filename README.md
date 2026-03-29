@@ -6,9 +6,14 @@ Full-stack and mobile developer. I build web apps, backends, and mobile software
 
 ---
 
-[![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AKXtreme&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=e6b86a&icon_color=e6b86a&text_color=c9d1d9&count_private=true)](https://github.com/AKXtreme)
-
-[![Top Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AKXtreme&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=e6b86a&icon_color=e6b86a&text_color=c9d1d9&count_private=true)](https://github.com/AKXtreme)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
