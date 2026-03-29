@@ -6,9 +6,9 @@ Full-stack and mobile developer. I build web apps, backends, and mobile software
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKXtreme&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=e6b86a&icon_color=e6b86a&text_color=c9d1d9&hide=stars)](https://github.com/AKXtreme)
+[![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AKXtreme&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=e6b86a&icon_color=e6b86a&text_color=c9d1d9&count_private=true)](https://github.com/AKXtreme)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXtreme&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=e6b86a&icon_color=e6b86a&text_color=c9d1d9)](https://github.com/AKXtreme)
+[![Top Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AKXtreme&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=e6b86a&icon_color=e6b86a&text_color=c9d1d9&count_private=true)](https://github.com/AKXtreme)
 
 ---
 
